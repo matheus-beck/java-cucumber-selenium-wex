@@ -1,6 +1,10 @@
 # 👨‍💻 QA Java, Cucumber and Selenium Challenge
 
 <p align="center">
+  <img alt="wex logo" width="15%" src="https://www.wexinc.com/wp-content/uploads/2018/08/logo-WEX.png">
+</p>
+
+<p align="center">
   <img alt="GitHub powered by" src="https://img.shields.io/badge/cucumber-tests-green.svg?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-beck/qa-java-cucumber-selenium-challenge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheus-beck/qa-java-cucumber-selenium-challenge">
