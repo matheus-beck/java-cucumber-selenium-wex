@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "libs/**/*.jar",
+    "C:/Users/matheus.a.beck/Downloads/selenium-java-3.141.59"
+  ]
+}
