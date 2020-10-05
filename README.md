@@ -4,8 +4,8 @@
   <img alt="GitHub powered by" src="https://img.shields.io/badge/cucumber-tests-green.svg?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-beck/qa-java-cucumber-selenium-challenge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheus-beck/qa-java-cucumber-selenium-challenge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/qa-java-cucumber-selenium-challenge">
   <img alt="GitHub" src="https://img.shields.io/github/license/matheus-beck/qa-java-cucumber-selenium-challenge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/qa-java-cucumber-selenium-challenge">
 </p>
 
 Java, Cucumber and Selenium front-end test in the search functionality of a website (`https://www.wexinc.com/`) for the tech QA challenge from a company. The features of the tests are inside `src/test/resources/wexsearchfunctionality/search_functionality.feature` and the step definitions are inside `src/test/java/wexsearchfunctionality/StepDefinitions.java`
