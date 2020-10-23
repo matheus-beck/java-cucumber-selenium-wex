@@ -11,7 +11,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/qa-java-cucumber-selenium-challenge">
 </p>
 
-Java, Cucumber and Selenium front-end test in the search functionality of a website (`https://www.wexinc.com/`) for the tech QA challenge from a company. The features of the tests are inside `src/test/resources/wexsearchfunctionality/search_functionality.feature` and the step definitions are inside `src/test/java/wexsearchfunctionality/StepDefinitions.java`
+Java, Cucumber and Selenium front-end test in the search functionality of a website (`https://www.wexinc.com/`) for the tech QA challenge from [WEX](https://www.wexinc.com/). The features of the tests are inside `src/test/resources/wexsearchfunctionality/search_functionality.feature` and the step definitions are inside `src/test/java/wexsearchfunctionality/StepDefinitions.java`
 
 ## 🎥 Tests Execution Demonstration
 
